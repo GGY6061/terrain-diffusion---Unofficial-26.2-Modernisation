@@ -8,9 +8,10 @@ This is a Minecraft Fabric mod integrating [Terrain Diffusion](https://github.co
 
 Three builds are available on the [Releases](https://github.com/xandergos/terrain-diffusion-mc/releases) page:
 
+**The CPU build is slow unless you are on MacOS.**
 
 | Build                     | Supports                    | Setup required                          |
-| ------------------------- | --------------------------- | --------------------------------------- |
+|---------------------------| --------------------------- | --------------------------------------- |
 | **Windows** (recommended) | Windows with any modern GPU | None                                    |
 | **CUDA**                  | NVIDIA GPUs                 | [CUDA + cuDNN install](CUDA_INSTALL.md) |
 | **CPU**                   | Everything else             | None                                    |
